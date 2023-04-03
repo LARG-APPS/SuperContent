@@ -12,25 +12,25 @@
 
 <article onclick="goTo('computing')">
   <h3>Computación</h3>
-  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/computing/img.png" alt="">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/computing/img.png" alt="Computación">
   <p>Todo lo relacionado a las computadoras</p>
 </article>
 
 <article onclick="goTo('windows')">
   <h3>Windows</h3>
-  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/windows/img.png" alt="">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/windows/img.png" alt="Windows">
   <p>Aprende a usar tu PC Windows</p>
 </article>
 
 <article onclick="goTo('programming')">
   <h3>Programación</h3>
-  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/programming/img.png" alt="">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/programming/img.png" alt="Lógica de programación">
   <p>Todo lo que debes saber sobre la programación</p>
 </article>
 
 <article onclick="goTo('html')">
   <h3>HTML</h3>
-  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/html/img.png" alt="">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/html/img.png" alt="HTML">
   <p>Todo lo que debes saber sobre HTML</p>
 </article>
 
