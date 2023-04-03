@@ -1,6 +1,6 @@
 <article onclick="goTo('math')">
   <h3>Matemáticas</h3>
-  <img src="./math/img.png" alt="">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/SuperContent/master/SuperContent/math/img.png" alt="">
   <p>Conoce los fundamentos matemáticos</p>
 </article>
 
