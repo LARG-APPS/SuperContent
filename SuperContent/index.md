@@ -1,36 +1,36 @@
 <article onclick="goTo('math')">
   <h3>Matemáticas</h3>
-  <img src="../content/math/img.png" alt="">
+  <img src="./math/img.png" alt="">
   <p>Conoce los fundamentos matemáticos</p>
 </article>
 
 <article hidden onclick="goTo('english')">
   <h3>English</h3>
-  <img src="../content/english/img.png" alt="">
+  <img src=".//english/img.png" alt="">
   <p>Learn and practice english every day</p>
 </article>
 
 <article onclick="goTo('computing')">
   <h3>Computación</h3>
-  <img src="../content/computing/img.png" alt="">
+  <img src="./computing/img.png" alt="">
   <p>Todo lo relacionado a las computadoras</p>
 </article>
 
 <article onclick="goTo('windows')">
   <h3>Windows</h3>
-  <img src="../content/windows/img.png" alt="">
+  <img src="./windows/img.png" alt="">
   <p>Aprende a usar tu PC Windows</p>
 </article>
 
 <article onclick="goTo('programming')">
   <h3>Programación</h3>
-  <img src="../content/programming/img.png" alt="">
+  <img src="./programming/img.png" alt="">
   <p>Todo lo que debes saber sobre la programación</p>
 </article>
 
 <article onclick="goTo('html')">
   <h3>HTML</h3>
-  <img src="../content/html/img.png" alt="">
+  <img src="./html/img.png" alt="">
   <p>Todo lo que debes saber sobre HTML</p>
 </article>
 
