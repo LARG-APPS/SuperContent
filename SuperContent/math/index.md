@@ -5,18 +5,18 @@
 </article>
 
 <article id="one">
-    <h3>Hola Mundo</h3>
-    <p>Pequeña descripción de esta sección</p>
+    <h3>Que son?</h3>
+    <p>Que son las matemáticas y su importancia</p>
 </article>
     
 <article id="two">
-    <h3>Hola Mundo</h3>
-    <p>Pequeña descripción de esta sección</p>
+    <h3>Ramas</h3>
+    <p>Las principales ramas de las matemáticas</p>
 </article>
     
 <article id="three">
-    <h3>Hola Mundo</h3>
-    <p>Pequeña descripción de esta sección</p>
+    <h3>Aritmética</h3>
+    <p>Aprende aritmética básica</p>
 </article>
     
 <article id="four">
