@@ -1,0 +1,24 @@
+<div class="card">
+  <h3>Invítame a un café</h3>
+  <p>Ayudarías mucho al proyecto</p>
+</div>
+
+<div class="card">
+  <h3>Ver en Apklis</h3>
+  <p>Actualizar la app o calificarla</p>
+</div>
+
+<div class="card">
+  <h3>Sugerencias</h3>
+  <p>En que puede mejorar esta aplicación?</p>
+</div>
+
+<div class="card">
+  <h3>Suscríbete</h3>
+  <p>Unete a nuestra comunidad en Telegram</p>
+</div>
+
+<div class="card">
+  <h3>Acerca de</h3>
+  <p>Qué es esta aplicación</p>
+</div>

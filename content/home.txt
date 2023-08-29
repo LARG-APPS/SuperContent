@@ -1,0 +1,111 @@
+<h2>Habilidades básicas</h2>
+
+<div class="card" onclick="openDoc('/content/math/roadmap.md', 'Matemáticas')">
+  <h3>Matemáticas</h3>
+  <p>El lenguaje del universo</p>
+</div>
+
+<div class="card">
+  <h3>Inglés</h3>
+  <p>El lenguaje universal</p>
+</div>
+
+<h2>Desarrollo web</h2>
+
+<div class="card">
+  <h3>HTML</h3>
+  <p>El lenguaje que da estructura a la web</p>
+</div>
+
+<div class="card">
+  <h3>CSS</h3>
+  <p>El lenguaje de diseño de la web</p>
+</div>
+
+<div class="card">
+  <h3>JavaScript</h3>
+  <p>El lenguaje de programación de la web</p>
+</div>
+
+<div class="card">
+  <h3>TailwindCSS</h3>
+  <p>El framework CSS máa moderno</p>
+</div>
+
+<div class="card">
+  <h3>React</h3>
+  <p>La librería UI más popular</p>
+</div>
+
+<h2>Desarrollo android</h2>
+
+<div class="card">
+  <h3>Java</h3>
+  <p>El lenguaje de programación robusto</p>
+</div>
+
+<div class="card">
+  <h3>XML</h3>
+  <p>Para crear las vistas en android</p>
+</div>
+
+<div class="card">
+  <h3>Gradle</h3>
+  <p>Para ajustes de compilación</p>
+</div>
+
+<h2>Desarrollo backend</h2>
+
+<div class="card">
+  <h3>PHP</h3>
+  <p>Lenguaje de scripts del lado del servidor</p>
+</div>
+
+<div class="card">
+  <h3>Laravel</h3>
+  <p>Framework PHP</p>
+</div>
+
+<h2>Otras herramientas</h2>
+
+<div class="card">
+  <h3>Markdown</h3>
+  <p>El lenguaje de marcado para formatear textos</p>
+</div>
+
+<div class="card">
+  <h3>Git y GitHub</h3>
+  <p>Las herramientas de control de versiones</p>
+</div>
+
+<div class="card">
+  <h3>Termux</h3>
+  <p>Emulador de Terminal para android</p>
+</div>
+
+<div class="card">
+  <h3>Vim</h3>
+  <p>Editor de código de consola</p>
+</div>
+
+<div class="card">
+  <h3>Spck Editor</h3>
+  <p>Editor de código para la web</p>
+</div>
+
+<div class="card">
+  <h3>AIDE</h3>
+  <p>El Android Studio de Android</p>
+</div>
+
+<h2>Marketing</h2>
+
+<div class="card">
+  <h3>Fundamentos</h3>
+  <p>Las bases del marketing</p>
+</div>
+
+<div class="card">
+  <h3>Marketing digital</h3>
+  <p>Como vender por internet</p>
+</div>

@@ -1,8 +1,8 @@
-![Imagen sobre HTML](/content/html/1/html-image.jpg)
+![Imagen sobre HTML](../content/html/1/que-es-html.jpg)
 
-# Qué es HTML? 
+# Qué es HTML?
 **Es un lenguaje** de marcado (no de programación) para 
-establecer la estructura y el contenido de las páginas web.
+crear la estructura y el contenido de las páginas web.
 
 Un **lenguaje de marcado** es un lenguaje informático que usa 
 marcas o etiquetas para identificar los elementos de un 
@@ -13,5 +13,3 @@ un encabezado, "esto otro" es un formulario, "aquello" es
 un párrafo, y así vamos identificando todos los elementos de 
 una página web.
 
-Un **documento html** es un archivo *.html, y que contiene 
-códigos HTML.
